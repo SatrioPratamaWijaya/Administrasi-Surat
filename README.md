@@ -13,6 +13,7 @@
 <hr>
 <h2>1. Halaman Login</h2>
 <p>Menu login pada sistem kami memainkan peran penting dalam menentukan halaman yang akan diakses selanjutnya. Ketika seorang admin berhasil login, mereka akan diarahkan ke halaman beranda khusus admin yang menyediakan akses ke fitur-fitur dan kontrol penuh terhadap sistem.  Di sisi lain, ketika seorang pengguna berhasil login, mereka akan diarahkan ke halaman beranda pengguna yang ditujukan khusus untuk memberikan pengalaman yang optimal bagi mereka. </p>
+<img src="Screenshot/Login(admin).png" width="1200" />
 <hr>
 <br>
 <h2>2. Halaman User</h2>
