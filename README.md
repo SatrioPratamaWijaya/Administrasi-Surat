@@ -16,5 +16,9 @@
 <img src="Screenshot/Login(admin).png" width="1200" />
 <hr>
 <br>
-<h2>2. Halaman User</h2>
-<p>Halaman home user dirancang secara khusus untuk memberikan pengalaman yang mudah dan menyenangkan bagi pengguna saat mereka menjelajahi situs web. Salah satu fitur utama yang saya implementasikan adalah halaman "Surat Keluar" yang memungkinkan pengguna untuk mengirim surat kepada admin perusahaan. Halaman ini dirancang dengan antarmuka yang intuitif dan mudah digunakan, sehingga pengguna dapat mengisi formulir dengan informasi yang diperlukan dan mengirimkan surat dengan mudah. Saya telah memastikan bahwa halaman ini memiliki validasi untuk memastikan bahwa informasi yang dikirim oleh pengguna akurat dan lengkap. Dengan adanya halaman "Surat Keluar" ini, pengguna dapat dengan cepat dan efisien mengirim surat ke admin perusahaan tanpa perlu repot.</p>
+<h2>2. Halaman Admin</h2>
+<p>saya telah berhasil membuat halaman admin yang sangat fungsional. Halaman ini dirancang khusus untuk memberikan kontrol penuh kepada admin dalam mengelola sistem surat perusahaan. Pada halaman utama, admin dapat dengan mudah mengakses berbagai fitur penting. Di dalam halaman utama tersebut, terdapat dua halaman penting yaitu "Surat Keluar" dan "Surat Masuk".
+
+Halaman "Surat Keluar" berfungsi sebagai tempat admin mengirimkan surat balasan kepada pengguna. Dengan menggunakan antarmuka yang sederhana namun efisien, admin dapat mengisi formulir dengan informasi yang relevan dan mengirimkan surat balasan kepada pengguna dengan cepat dan mudah. Fitur ini memungkinkan admin untuk memberikan tanggapan yang cepat dan tepat kepada pengguna.
+
+Sementara itu, halaman "Surat Masuk" memainkan peran penting dalam menampilkan data surat masuk yang dikirim oleh pengguna. Admin dapat melihat daftar surat masuk yang telah diterima dan dengan mudah mengelola dan menanggapi setiap surat. Halaman ini menyajikan informasi yang lengkap dan rapi, memungkinkan admin untuk dengan cepat menavigasi dan memeriksa setiap surat masuk dengan efisien.</p>
