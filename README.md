@@ -13,3 +13,7 @@
 <hr>
 <h2>1. Halaman Login</h2>
 <p>Menu login pada sistem kami memainkan peran penting dalam menentukan halaman yang akan diakses selanjutnya. Ketika seorang admin berhasil login, mereka akan diarahkan ke halaman beranda khusus admin yang menyediakan akses ke fitur-fitur dan kontrol penuh terhadap sistem.  Di sisi lain, ketika seorang pengguna berhasil login, mereka akan diarahkan ke halaman beranda pengguna yang ditujukan khusus untuk memberikan pengalaman yang optimal bagi mereka. </p>
+<hr>
+<br>
+<h2>2. Halaman User</h2>
+<p>Halaman home user dirancang secara khusus untuk memberikan pengalaman yang mudah dan menyenangkan bagi pengguna saat mereka menjelajahi situs web. Salah satu fitur utama yang saya implementasikan adalah halaman "Surat Keluar" yang memungkinkan pengguna untuk mengirim surat kepada admin perusahaan. Halaman ini dirancang dengan antarmuka yang intuitif dan mudah digunakan, sehingga pengguna dapat mengisi formulir dengan informasi yang diperlukan dan mengirimkan surat dengan mudah. Saya telah memastikan bahwa halaman ini memiliki validasi untuk memastikan bahwa informasi yang dikirim oleh pengguna akurat dan lengkap. Dengan adanya halaman "Surat Keluar" ini, pengguna dapat dengan cepat dan efisien mengirim surat ke admin perusahaan tanpa perlu repot.</p>
